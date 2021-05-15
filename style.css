@@ -1,0 +1,44 @@
+#ulTasks li.done {
+    color : gray;
+    text-decoration: line-through;
+}
+
+body{
+    /* background-color: blueviolet; */
+    /* background-color: rgb(120,188,196); */
+}
+
+h1{
+    font-family: cursive;
+    /* color: aliceblue; */
+}
+.btn{
+    font-family: cursive;
+    /* color: aliceblue; */
+}
+
+label{
+    font-family: cursive;
+    /* color: aliceblue; */
+}
+
+::placeholder{
+    font-family: cursive;
+    /* color: aliceblue; */
+}
+
+.btn{
+    border-radius:10px;
+}
+
+.form-control{
+    border-radius: 15px;
+    /* background-color: rgb(235, 227, 227); */
+}
+
+
+
+
+.list-group-item{
+    font-family: cursive;
+}
